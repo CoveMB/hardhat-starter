@@ -1,0 +1,9 @@
+{
+  "mochaExplorer.files": "test/**/*.{j,t}s",
+  "solidity.compileUsingRemoteVersion": "v0.8.9",
+  "cSpell.words": [
+    "astro",
+    "Reentrancy",
+    "staker"
+  ]
+}
